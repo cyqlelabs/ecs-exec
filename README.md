@@ -24,7 +24,7 @@ A command-line utility that simplifies executing commands in AWS ECS Fargate con
 Install directly from GitHub to your user's bin directory:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/cyqlel/ecs-exec/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/cyqlelabs/ecs-exec/main/install.sh | bash
 ```
 
 This will:
