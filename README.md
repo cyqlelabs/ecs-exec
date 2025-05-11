@@ -2,10 +2,6 @@
 
 A command-line utility that simplifies executing commands in AWS ECS Fargate containers using AWS's execute-command functionality.
 
-## Author
-
-Nicolás Iglesias <nfiglesias@gmail.com>
-
 ## Features
 
 - Interactive selection of ECS clusters, services, tasks, and containers
